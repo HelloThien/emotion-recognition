@@ -16,7 +16,7 @@ Change into /client and run:
 npm i
 npm start
 ```
-And change into /emotion-recogition-using-speed and run:
+And change into /server and run:
 ```bash
 pip3 install -r requirements.txt
 uvicorn main:app --reload
