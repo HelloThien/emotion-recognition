@@ -20,6 +20,7 @@ And change into /emotion-recogition-using-speed and run:
 ```bash
 pip3 install -r requirements.txt
 uvicorn main:app --reload
+```
 By this way you have to setup postpressql with url connect:
 `
 postgresql://postgres:thien@localhost:5433/emotion
